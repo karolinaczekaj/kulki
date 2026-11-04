@@ -1,0 +1,13 @@
+# Build output
+*.exe
+*.o
+*.obj
+*.pdb
+x64/
+Debug/
+Release/
+.vs/
+
+# Files created while playing
+ranking.txt
+save.txt
